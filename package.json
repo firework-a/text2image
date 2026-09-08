@@ -1,6 +1,6 @@
 {
   "name": "@firework-a/text2image",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "将图像/视频/文本渲染为文字马赛克效果，基于 Canvas",
   "license": "MIT",
   "repository": {
