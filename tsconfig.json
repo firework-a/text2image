@@ -13,7 +13,8 @@
     "lib": ["ESNext", "DOM"],
     "skipLibCheck": true,
     "declaration": true,
-    "declarationDir": "./dist"
+    "declarationDir": "./dist",
+    "rootDir": "./src"
   },
   "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx"]
 }
